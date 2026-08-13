@@ -1,0 +1,5 @@
+.idea/
+test_pipeline.py
+.python-version
+pycache/
+*.pyc
